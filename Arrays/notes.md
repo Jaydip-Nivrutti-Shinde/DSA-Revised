@@ -26,16 +26,16 @@
     - list.clone(), Collections.reverse(list)
 
 > Practice Questions 
-    1} From array print negative elements only 
-    2} Total sum and product of array Elements
-    3} Maximum & Minimum from array elements 
-    4} Multiply odd idx by 2 & add 10 to even idx
-    5} Search in array - linear & Binary search 
-    6} Two elements with target sum 
-    7} Second largest element - 1 or 2 loops
-    8} Reverse complete Array or part- 2 pointer
+    1} From array print negative elements only ~
+    2} Total sum and product of array Elements ~
+    3} Maximum & Minimum from array elements ~
+    4} Multiply even idx by 2 & add 10 to odd idx ~
+    5} Search in array - linear & Binary search ~
+    6} Two elements with target sum ~
+    7} Second largest element - 1 or 2 loops 
+    8} Reverse complete Array or part- 2 pointer ~
     9} Rotate array - using reverse logic 
-    10} Missing in array 
+    10} Missing in array ~
     11} Segregate 0s and 1s - 2 pass & pointer solution
     12} Wave array 
     13} Adding one to number 
